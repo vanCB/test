@@ -5,3 +5,6 @@ function fn1(){
 }
 var count = 0;
 var num2 = 20;
+
+var str1 = '缓存区';
+var str2 = '工作区';
