@@ -8,3 +8,4 @@ var num2 = 20;
 
 var str1 = '缓存区';
 var str2 = '工作区';
+var str3 = '缓存区';
